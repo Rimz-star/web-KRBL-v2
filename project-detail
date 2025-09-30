@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Detail Proyek</title>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="projects.html">← Kembali ke Proyek</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Nama Proyek A</h1>
+    <p>Deskripsi lengkap proyek ini. Tambahkan gambar, tautan, atau video jika ada.</p>
+  </main>
+</body>
+</html>
